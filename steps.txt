@@ -1,0 +1,73 @@
+https://tailwindcss.com/docs/guides/vite
+npm create vite@latest my-project -- --template react
+cd my-project
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npm run dev
+npx tailwindcss init -p
+
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+npm run dev
+
+ES7+ React/Redux/React-Native snippets
+
+https://react-icons.github.io/react-icons/
+npm install react-icons --save
+
+https://swiperjs.com/get-started
+npm install swiper
+https://swiperjs.com/demos
+https://codesandbox.io/p/sandbox/f7kswt?file=%2Fsrc%2FApp.jsx%3A1%2C1
+
+https://www.npmjs.com/package/react-scroll
+npm i react-scroll
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
